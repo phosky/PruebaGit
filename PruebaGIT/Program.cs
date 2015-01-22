@@ -11,11 +11,11 @@ namespace PruebaGIT
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Añadido nuevo código... ");
+            
             Console.ReadKey();
 
-
-
-
+            
 
         }
     }
